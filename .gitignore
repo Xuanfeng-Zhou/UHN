@@ -1,0 +1,25 @@
+/runs*/
+/log*/
+/data/
+__pycache__/
+/checkpoints*/
+/.history/
+/*.out
+/visualize_model*/
+/outputs/
+
+# Model datasets
+/model_datasets*/
+
+# Visualization
+/visualize_base_model*/
+/visualize_model_family*/
+# Scatter
+/scatter*/
+# Table
+/table*/
+# Curve
+/curve*/
+# Generated figures
+/generated_figure*/
+/figures_paper/
